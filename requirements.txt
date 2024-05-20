@@ -1,0 +1,84 @@
+absl-py==2.1.0
+asttokens==2.4.1
+astunparse==1.6.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
+contourpy==1.2.1
+cycler==0.12.1
+debugpy @ file:///D:/bld/debugpy_1707444544473/work
+decorator==5.1.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
+executing==2.0.1
+flatbuffers==24.3.25
+fonttools==4.51.0
+gast==0.5.4
+google-pasta==0.2.0
+greenlet==3.0.3
+grpcio==1.63.0
+h5py==3.11.0
+idna==3.7
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1710971335535/work
+ipykernel @ file:///D:/bld/ipykernel_1708996677248/work
+ipython==8.23.0
+ipython-genutils==0.2.0
+ipython-sql==0.5.0
+jedi==0.19.1
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1710255804825/work
+jupyter_core @ file:///D:/bld/jupyter_core_1710257313664/work
+keras==3.3.3
+kiwisolver==1.4.5
+libclang==18.1.1
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.9.0
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+ml-dtypes==0.3.2
+namex==0.0.8
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
+numpy==1.26.4
+opencv-python==4.9.0.80
+opt-einsum==3.3.0
+optree==0.11.0
+packaging==24.0
+pandas==2.2.2
+parso==0.8.3
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pillow==10.3.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
+prettytable==3.10.0
+prompt-toolkit==3.0.43
+protobuf==4.25.3
+psutil @ file:///D:/bld/psutil_1705722591889/work
+pure-eval==0.2.2
+Pygments==2.17.2
+pyparsing==3.1.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz==2024.1
+pywin32==306
+pyzmq @ file:///D:/bld/pyzmq_1715024524369/work
+requests==2.31.0
+rich==13.7.1
+seaborn==0.13.2
+six==1.16.0
+SQLAlchemy==2.0.29
+sqlparse==0.4.4
+stack-data==0.6.3
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+tornado @ file:///D:/bld/tornado_1708363244199/work
+traitlets==5.14.2
+typing_extensions==4.10.0
+tzdata==2024.1
+urllib3==2.2.1
+wcwidth==0.2.13
+Werkzeug==3.0.2
+wrapt==1.16.0
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
